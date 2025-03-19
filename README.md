@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! 👋 Я [Имя]
+💡 Python-разработчик, интересуюсь Backend.
 
-<!--
-**rts-rocket/rts-rocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Мои Hard Skills:
+- Python, ООП, алгоритмы
+- Telegram, pyrogram
+- PyGame
+- Flask, REST API
+- SQLite
 
-Here are some ideas to get you started:
+## 📌 Мои проекты:
+- [Flask API для погоды](https://github.com/user/weather-api)
+- [Telegram бот с мини-играми](https://github.com/user/telegram-bot)
+- [Модель предсказания цен](https://github.com/user/prices)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Контакты: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)
